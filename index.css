@@ -1,0 +1,9 @@
+body {
+    background: url("Moustache.jpg");
+    background-size: cover;
+}
+
+#heading {
+    background-color:#ffffe6;
+    text-align: center;
+}
